@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d778d4b_002D9a21_002D4e20_002D8dee_002D540fb50ba934/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateBookProfileValidatorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::37761035-E2F2-4967-80DC-0FE2C9DCCFC9::net9.0::BookManagementAPI.TestProject1.CreateBookProfileValidatorTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4a620a10_002D28af_002D4b22_002Dbfd2_002Da3992aca5bf9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateBookProfileValidatorTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::37761035-E2F2-4967-80DC-0FE2C9DCCFC9::net9.0::BookManagementAPI.TestProject1.CreateBookProfileValidatorTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f6e6e95_002Dc9f2_002D4e1c_002Da75f_002D13badaeee053/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateBookProfileValidatorTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::37761035-E2F2-4967-80DC-0FE2C9DCCFC9::net9.0::BookManagementAPI.TestProject1.CreateBookProfileValidatorTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b17def83_002D4db9_002D4e0d_002D8b8c_002D28266eb01d10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateBookProfileValidatorTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;37761035-E2F2-4967-80DC-0FE2C9DCCFC9/f:CreateBookHandlerIntegrationTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
